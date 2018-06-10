@@ -1,22 +1,20 @@
 # Site settings
-title: Stylish Portfolio
-email: your-email@domain.com
+title: Tongan Vet Clinic
+email: tonganvet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This website is for the Tongan Vet Clinic.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tonganvet.github.io/" # the base hostname & protocol for your site
 
 # User setting
-owner: Start Bootstrap
-email: name@example.com
+owner: Tongan Vet | Kingdom of Tonga, Ministry of Agriculture & Food, Forest & Fisheries
+email: tonganvet@gmail.com
 facebook_username: example
-twitter_username: example
-github_username: example
 address:
-  - line: "Tongatapu, Kigdom of Tonga"
+  - line: "TokomololoNukuʻalofa,, Tongatapu Island, Kigdom of Tonga"
   # Feel free to add more lines here 
 telephone: (123) 456-7890
-copyright: Your Site
+copyright: Tongan Vet Clinic 
 
 # API settings
 google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
