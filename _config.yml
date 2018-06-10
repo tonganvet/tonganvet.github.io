@@ -14,10 +14,11 @@ address:
   - line: "TokomololoNukuʻalofa,, Tongatapu Island, Kigdom of Tonga"
   # Feel free to add more lines here 
 telephone:  +676 29715
-copyright: Tongan Vet Clinic 
+copyright: MAFF Tongan Vet Clinic 
 
 # API settings
-google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
+google_api_key: AIzaSyCZt_VdD0tTSHlX3faDyVn5Vo90ss7Ubg8
+
 
 # Build settings
 markdown: kramdown
