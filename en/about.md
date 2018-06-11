@@ -1,5 +1,5 @@
 ---
-extends: page.html
+layout: page
 title: About us
 ---
 
